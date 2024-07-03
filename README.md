@@ -19,13 +19,6 @@ Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen int
 - **Testing:** Jest
 - **Others:** Git, Docker, Webpack, Babel
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
 
 ## 📫 Let's Connect!
