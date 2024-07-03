@@ -1,22 +1,22 @@
 # Hi there, I'm [Your Name]! 👋
 
-Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen interest in fintech solutions. I'm always excited to work on projects that solve real-world problems and make a positive impact.
+Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen interest in cloud computing. I'm always excited to work on projects that solve real-world problems and make a positive impact.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working on improving my skills in JavaScript/TypeScript, Python, AWS, and testing libraries.
-- 💼 Looking for opportunities in the fintech space.
-- 🎨 I love creating sleek and functional UIs.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 🌱 I’m currently working on improving my skills in AWS, Python and Engineering Management.
+- 💼 Looking for opportunities in any space.
+- 🎨 I love creating sleek,functional UIs, while ensuring the build of reusable components.
+- 📫 How to reach me: [your.email@example.com](mailto:selasisepenu5@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
 - **Languages:** JavaScript, TypeScript, Python, C++
-- **Frontend:** React, Redux, HTML5, CSS3, SASS
+- **Frontend:** React, Redux, HTML5, CSS3, Tailwind
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Cloud:** AWS (EC2, S3, Lambda)
-- **Testing:** Jest, Mocha, Chai
+- **Database:** PostgreSQL, MongoDB, Prisma
+- **Cloud:** AWS 
+- **Testing:** Jest
 - **Others:** Git, Docker, Webpack, Babel
 
 ## 📈 GitHub Stats
@@ -31,20 +31,18 @@ Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen int
 
 Here are some of the projects I'm currently working on:
 
-### 1. [Project Name](https://github.com/your-github-username/project-repo)
-**Description:** A brief description of what this project is about and the technologies used.
+### 1. [AI Powered Cardbon Tracking For Corporate Bodies](https://github.com/Selasie5/Lumina-AI-Backend)
 
-### 2. [Project Name](https://github.com/your-github-username/project-repo)
-**Description:** A brief description of what this project is about and the technologies used.
+
+### 2. [A Platform For African Creatives]
+
 
 ### 3. [The Psalmist International](https://github.com/your-github-username/psalmist-international)
-**Description:** A website for The Psalmist International church, built with React and styled-components, featuring [additional functionalities you plan to implement].
+**Description:** A website for The Psalmist International church, built with React and styled-components.
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- [Twitter](https://twitter.com/your-twitter-username)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/Selasie Kofi Sepenu)
 
 ## 🌟 Fun Fact
 
