@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Selasie! 👋
 
 Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen interest in cloud computing. I'm always excited to work on projects that solve real-world problems and make a positive impact.
 
