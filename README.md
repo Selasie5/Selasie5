@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen int
 - 🌱 I’m currently working on improving my skills in AWS, Python and Engineering Management.
 - 💼 Looking for opportunities in any space.
 - 🎨 I love creating sleek,functional UIs, while ensuring the build of reusable components.
-- 📫 How to reach me: [your.email@example.com](mailto:selasisepenu5@gmail.com)
+- 📫 How to reach me: [selasisepenu5@gmail.com](mailto:selasisepenu5@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
