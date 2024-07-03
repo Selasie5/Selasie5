@@ -27,18 +27,6 @@ Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen int
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
-## 📚 Projects
-
-Here are some of the projects I'm currently working on:
-
-### 1. [AI Powered Cardbon Tracking For Corporate Bodies](https://github.com/Selasie5/Lumina-AI-Backend)
-
-
-### 2. [A Platform For African Creatives]
-
-
-### 3. [The Psalmist International](https://github.com/your-github-username/psalmist-international)
-**Description:** A website for The Psalmist International church, built with React and styled-components.
 
 ## 📫 Let's Connect!
 
