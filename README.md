@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer engineer with a
 
 ## 🚀 About Me
 
-- 🌱 I’m currently working on improving my skills in AWS, Python and Engineering Management.
+- 🌱 I’m currently an incoming software engineering fellow at Headstarter AI.
 - 💼 Looking for opportunities in any space.
 - 🎨 I love creating sleek,functional UIs, while ensuring the build of reusable components.
 - 📫 How to reach me: [selasisepenu5@gmail.com](mailto:selasisepenu5@gmail.com)
