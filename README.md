@@ -1,6 +1,6 @@
 # Hi there, I'm Selasie! 👋
 
-Welcome to my GitHub profile! I'm a passionate frontend engineer with a keen interest in cloud computing. I'm always excited to work on projects that solve real-world problems and make a positive impact.
+Welcome to my GitHub profile! I'm a passionate software engineer engineer with a keen interest in cloud computing. I'm always excited to work on projects that solve real-world problems and make a positive impact.
 
 ## 🚀 About Me
 
