@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software engineer engineer with a
 - 💼 Looking for opportunities in any space.
 - 🎨 I love creating sleek,functional UIs, while ensuring the build of reusable components.
 - 📫 How to reach me: [selasisepenu5@gmail.com](mailto:selasisepenu5@gmail.com)
-- https://preview.themeforest.net/item/charityx-charity-nonprofit-wordpress-theme/full_screen_preview/47498724?_ga=2.266915208.706441371.1722009156-1638916238.1722009156
 
 ## 🛠️ Technologies & Tools
 
