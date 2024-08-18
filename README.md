@@ -1,12 +1,12 @@
 # Hi there, I'm Selasie! 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer engineer with a keen interest in cloud computing. I'm always excited to work on projects that solve real-world problems and make a positive impact.
+Welcome to my GitHub profile! I'm a passionate software engineer interested in clean and user-intuitive software architecture. I'm always excited to work on projects that solve real-world problems and make a positive impact.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently an incoming software engineering fellow at Headstarter AI.
 - 💼 Looking for opportunities in any space.
-- 🎨 I love creating sleek,functional UIs, while ensuring the build of reusable components.
+- 🎨 I love creating sleek, functional UIs while ensuring the build of reusable components.
 - 📫 How to reach me: [selasisepenu5@gmail.com](mailto:selasisepenu5@gmail.com)
 
 ## 🛠️ Technologies & Tools
