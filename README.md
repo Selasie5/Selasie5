@@ -3,7 +3,7 @@ Engineering addict. Instrumentalist. Lover Boy. Ex-coffee addict. Ex-Headstarter
 What am I working on atm:
 - Nika ( A product of The BuildRoom)
 - Enterprise scale software @Dimax -mostly doing frontend engineering
-- Leading engineering @Forge Studios -consumer apps, B2C, gov tech, enterprise
+- Leading engineering @Forge Studios -consumer apps, B2B, gov tech, enterprise
 - Autonomous QA Agent
 - Secret 🤫
 - Doing a launch with for a product with over 300+ people on waitlist
