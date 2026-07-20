@@ -1,4 +1,4 @@
-Child of God, Engineering addict. Instrumentalist. Lover Boy. Ex-coffee addict. Ex-Headstarter AI Fellow, Ex-Leadmonger , Ex-Andela Trainee, Prev @ Turntabl Intern
+Child of God, Engineering addict. Instrumentalist. Lover Boy. Ex-coffee addict. Ex-Headstarter AI Fellow, Ex-Leadmonger , Ex-Andela Trainee, Prev @ Turntabl Intern, Prev @ Dimax
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 What am I working on atm:
 - Argus
